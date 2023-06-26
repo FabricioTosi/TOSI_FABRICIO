@@ -1,7 +1,7 @@
 -- • Crear las tablas con los campos.
 -- • Crear las relaciones entre las tablas. Tener en cuenta que las relaciones se dan por que existe al menos una PK y una FK
 -- • Almacenar como mínimo 3 valores por cada tabla conservando las sentencias realizadas.
-
+-- (EN ESTE EJERCICIO EL PROGRAMA ERDplus CREO UNA TABLA SQL PARA LAS RELACIONES NOSE A QUE SE DEBE ESE ERROR )
 CREATE TABLE CURSO
 (
   nombre VARCHAR(70) NOT NULL,
